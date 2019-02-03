@@ -12,8 +12,10 @@ PCA9685 Servo Driver Shield for M5Stack
 
 ## Arduino IDE Library (Adafruit-PWM-Servo-Driver)
 [Adafruit-PWM-Servo-Driver](https://github.com/adafruit/Adafruit-PWM-Servo-Driver-Library)
+
 **Change I2C address to 0x72**
 
 ## Example
 M5Stack_Plotclock
+
 https://github.com/tomorrow56/M5Stack_Plotclock
