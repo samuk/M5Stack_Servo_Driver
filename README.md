@@ -19,3 +19,6 @@ PCA9685 Servo Driver Shield for M5Stack
 M5Stack_Plotclock
 
 https://github.com/tomorrow56/M5Stack_Plotclock
+
+## Support
+https://thousandiy.wordpress.com/2018/10/20/servo-driver-shield-for-m5stack/
